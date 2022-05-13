@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daviantonioe
-- 👀 I’m interested in Python, Django, PHP, HTML & CSS
-- 🌱 I’m currently learning Django, CakePHP
+- 👀 I’m interested in Python, Django, HTML & CSS
+- 🌱 I’m currently learning Django and Web Scraping
 - 💞️ I’m looking to collaborate on Frontend and Backend in django aplications and websites
 - 📫 How to reach me davi.antonio.e@gmail.com or 21974927766
 
