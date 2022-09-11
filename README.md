@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daviantonioe
-- 👀 I’m interested in Python, Django, HTML & CSS
-- 🌱 I’m currently learning Django and Web Scraping
-- 💞️ I’m looking to collaborate on Frontend and Backend in django aplications and websites
+- 👀 I’m interested in JavaScript | HTML & CSS | PHP
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Frontend and Backend in web aplications and websites with PHP or JavaScript
 - 📫 How to reach me davi.antonio.e@gmail.com or 21974927766
 
 <!---
